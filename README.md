@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Angular, Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/andrei4ik1997](https://github.com/andrei4ik1997)
+- 👨‍💻 All of my projects are available at [https://github.com/andrei4ik1997?tab=repositories](https://github.com/andrei4ik1997)
 
 - 📫 How to reach me **andrey03071997@yandex.ru**
 
